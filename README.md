@@ -33,8 +33,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- [Solution URL](https://www.frontendmentor.io/solutions/manage-landing-page-built-using-vanilla-js-html5-and-css3-_I-UdpbU_)
+- [Live site URL](https://manage-landing-page-nu-navy.vercel.app/)
 
 ## My process
 
