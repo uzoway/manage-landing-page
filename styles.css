@@ -141,7 +141,7 @@ body{
     z-index: -1;
 }
 
-.features main{
+.features .main{
     display: flex;
     justify-content: space-between;
     flex-wrap: wrap;
